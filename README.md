@@ -13,7 +13,6 @@ REQUIREMENTS    for   this Projects are:
 
 Steps to Run the Program:
 
-
 1- Open terminal and go the path where the file is stored.
 2- Now, after that run the file.
 3- It will ask for the username and password you want to post tofacebook.
